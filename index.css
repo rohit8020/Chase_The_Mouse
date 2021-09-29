@@ -43,7 +43,4 @@ nav{
     border: 2px solid lightgray;
 }
 
-.item{
-    background-color: transparent;
-    transition: all .3 ease-out;
-}
+
